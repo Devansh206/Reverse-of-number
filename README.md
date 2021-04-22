@@ -1,1 +1,1 @@
-# Reverse-of-number
+# Reverse-of-number using while loop
